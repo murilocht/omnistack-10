@@ -3,3 +3,7 @@
 backend/node_modules/
 
 backend/src/config.js
+
+#web
+
+web/node_modules/
