@@ -7,3 +7,8 @@ backend/src/config.js
 #web
 
 web/node_modules/
+
+#mobile
+
+mobile/node_modules/
+mobile/.expo/

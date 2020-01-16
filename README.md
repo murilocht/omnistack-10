@@ -6,5 +6,5 @@ Videos das aulas cedidos apenas durante a semana (13/01/2020 á 17/01/2020)
 
 > ReactJS
 
-> React Native
+> React Native (Expo)
 
